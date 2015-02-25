@@ -1,0 +1,2000 @@
+{ "index": {} }
+{ "price" : 22004, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6075, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22913, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6983, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23821, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7892, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24730, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8800, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25639, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9709, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26547, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10618, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27456, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11526, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28364, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12435, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29273, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13343, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30182, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14252, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31090, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15161, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31999, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16069, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 140, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16978, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1048, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17886, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1957, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18795, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2865, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19704, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3774, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20612, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4683, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21521, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5591, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22430, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6500, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23338, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7408, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24247, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8317, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25155, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9226, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26064, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10134, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26973, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11043, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27881, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11952, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28790, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12860, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29698, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13769, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30607, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14677, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31516, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15586, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32424, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16495, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 565, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17403, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1474, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18312, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2382, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19220, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3291, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20129, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4199, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21038, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5108, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21946, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6017, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22855, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6925, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23763, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7834, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24672, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8742, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25581, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9651, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26489, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10560, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27398, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11468, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28307, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12377, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29215, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13285, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30124, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14194, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31032, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15103, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31941, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16011, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 82, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16920, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 990, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17829, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1899, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18737, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2807, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19646, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3716, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20554, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4625, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21463, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5533, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22372, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6442, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23280, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7351, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24189, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8259, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25097, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9168, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26006, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10076, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26915, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10985, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27823, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11894, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28732, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12802, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29640, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13711, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30549, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14619, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31458, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15528, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32366, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16437, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 507, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17345, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1416, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18254, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2324, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19162, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3233, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20071, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4141, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20980, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5050, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21888, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5959, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22797, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6867, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23706, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7776, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24614, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8684, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25523, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9593, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26431, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10502, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27340, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11410, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28249, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12319, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29157, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13228, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30066, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14136, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30974, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15045, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31883, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15953, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16862, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 932, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17771, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1841, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18679, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2750, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19588, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3658, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20496, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4567, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21405, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5475, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22314, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6384, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23222, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7293, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24131, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8201, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25039, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9110, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25948, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10018, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26857, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10927, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27765, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11836, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28674, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12744, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29583, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13653, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30491, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14561, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31400, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15470, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32308, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16379, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 449, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17287, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1358, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18196, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2266, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19105, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3175, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20013, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4083, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20922, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4992, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21830, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5901, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22739, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6809, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23648, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7718, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24556, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8627, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25465, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9535, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26373, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10444, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11352, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28191, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12261, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29099, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13170, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30008, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14078, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30917, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14987, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31825, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15895, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32734, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16804, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 874, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17713, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1783, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18621, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2692, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19530, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3600, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20438, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4509, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21347, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5417, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22256, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6326, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23164, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7235, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24073, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8143, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24982, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9052, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25890, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9960, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26799, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10869, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27707, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11778, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28616, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12686, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29525, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13595, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30433, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14504, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31342, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15412, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32250, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16321, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 391, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17229, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1300, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18138, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2208, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19047, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3117, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19955, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4026, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20864, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4934, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21772, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5843, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22681, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6751, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23590, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7660, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24498, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8569, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25407, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9477, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26315, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10386, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27224, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11294, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28133, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12203, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29041, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13112, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29950, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14020, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30859, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14929, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31767, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15837, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32676, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16746, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 816, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17655, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1725, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18563, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2634, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19472, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3542, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20381, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4451, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21289, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5359, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22198, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6268, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23106, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7177, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24015, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8085, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24924, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8994, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25832, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9903, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26741, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10811, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27649, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11720, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28558, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12628, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29467, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13537, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30375, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14446, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31284, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15354, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32193, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16263, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 333, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17171, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1242, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18080, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2150, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18989, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3059, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19897, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3968, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20806, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4876, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21714, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5785, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22623, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6693, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23532, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7602, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24440, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8511, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25349, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9419, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26258, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10328, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27166, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11236, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28075, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12145, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28983, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13054, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29892, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13962, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30801, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14871, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31709, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15780, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32618, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16688, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 758, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17597, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1667, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18505, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2576, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19414, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3484, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20323, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4393, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21231, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5302, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22140, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6210, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23048, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7119, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23957, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8027, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24866, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8936, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25774, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9845, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26683, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10753, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27592, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11662, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28500, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12570, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29409, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13479, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30317, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14388, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31226, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15296, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32135, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16205, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 275, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17113, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1184, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18022, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2092, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18931, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3001, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19839, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3910, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20748, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4818, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21657, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5727, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22565, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6635, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23474, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7544, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24382, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8453, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25291, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9361, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26200, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10270, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27108, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11179, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28017, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12087, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28925, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12996, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29834, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13904, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30743, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14813, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31651, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15722, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32560, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16630, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 701, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17539, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1609, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18447, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2518, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19356, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3426, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20265, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4335, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21173, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5244, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22082, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6152, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22990, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7061, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23899, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7969, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24808, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8878, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25716, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9787, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26625, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10695, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27534, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11604, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28442, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12512, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29351, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13421, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30259, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14330, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31168, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15238, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32077, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16147, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 217, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17056, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1126, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17964, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2034, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18873, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2943, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19781, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3852, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20690, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4760, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21599, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5669, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22507, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6578, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23416, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7486, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24324, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8395, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25233, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9303, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26142, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10212, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27050, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11121, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27959, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12029, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28868, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12938, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29776, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13846, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30685, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14755, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31593, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15664, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32502, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16572, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 643, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17481, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1551, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18389, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2460, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19298, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3368, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20207, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4277, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21115, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5186, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22024, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6094, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22933, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7003, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23841, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7911, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24750, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8820, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25658, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9729, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26567, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10637, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27476, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11546, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28384, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12455, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29293, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30201, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14272, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31110, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15180, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32019, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16089, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 159, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16998, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1068, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17906, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1977, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18815, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2885, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19723, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3794, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20632, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4702, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21541, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5611, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22449, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6520, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23358, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7428, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24267, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8337, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25175, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9245, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26084, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10154, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26992, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11063, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27901, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11971, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28810, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12880, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29718, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13788, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30627, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14697, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31535, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15606, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32444, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16514, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 585, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17423, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1493, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18332, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2402, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19240, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3310, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20149, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4219, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21057, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5128, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21966, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6036, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22875, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6945, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23783, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7854, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24692, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8762, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25600, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9671, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26509, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10579, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27418, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11488, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28326, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12397, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29235, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13305, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30144, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14214, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31052, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15122, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31961, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16031, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 101, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16940, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1010, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17848, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1919, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18757, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2827, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19665, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3736, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20574, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4644, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21483, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5553, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22391, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6462, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23300, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7370, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24209, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8279, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25117, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9187, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26026, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10096, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26934, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11005, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27843, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11913, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28752, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12822, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29660, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13731, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30569, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14639, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31477, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15548, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32386, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16456, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 527, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17365, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1435, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18274, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2344, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19182, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3253, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20091, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4161, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20999, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5070, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21908, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5978, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22817, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6887, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23725, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7796, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24634, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8704, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25543, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9613, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26451, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10521, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27360, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11430, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28268, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12339, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29177, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13247, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30086, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14156, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30994, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15064, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31903, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15973, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 43, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16882, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 952, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17790, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1861, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18699, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2769, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19608, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3678, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20516, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4586, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21425, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5495, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22333, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6404, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23242, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7312, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24151, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8221, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25059, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9130, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25968, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10038, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26876, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10947, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27785, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11855, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28694, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12764, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29602, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13673, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30511, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14581, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31420, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15490, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32328, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16398, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 469, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17307, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1377, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18216, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2286, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19124, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3195, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20033, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4103, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20941, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5012, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21850, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5920, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22759, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6829, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23667, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7738, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24576, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8646, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25485, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9555, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26393, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10463, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27302, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11372, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28210, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12281, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29119, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13189, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30028, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14098, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30936, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15007, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31845, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15915, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32753, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16824, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 894, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17732, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1803, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18641, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2711, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19550, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3620, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20458, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4529, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21367, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5437, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22275, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6346, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23184, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7254, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24093, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8163, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25001, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9072, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25910, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9980, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26819, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10889, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27727, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11797, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28636, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12706, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29544, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13615, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30453, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14523, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31362, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15432, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32270, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16340, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 411, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17249, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1319, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18158, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2228, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19066, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3137, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19975, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4045, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20884, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4954, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21792, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5862, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22701, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6771, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23609, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7680, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24518, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8588, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25427, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9497, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26335, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10406, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27244, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11314, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28152, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12223, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29061, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13131, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29970, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14040, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30878, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14949, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31787, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15857, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32696, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16766, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 836, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17674, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1745, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18583, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2653, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19492, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3562, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20400, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4471, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21309, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5379, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22218, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6288, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23126, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7196, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24035, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8105, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24943, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9014, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25852, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9922, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26761, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10831, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27669, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11739, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28578, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12648, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29486, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13557, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30395, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14465, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15374, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32212, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16283, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 353, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17191, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1261, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18100, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2170, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19008, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3079, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19917, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3987, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20826, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4896, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21734, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5805, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22643, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6713, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23551, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7622, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24460, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8530, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25369, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9439, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26277, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10348, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27186, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11256, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28095, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12165, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29003, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13073, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29912, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13982, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30820, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14891, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31729, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15799, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32638, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16708, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 778, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17616, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1687, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18525, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2595, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19434, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3504, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20342, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4413, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21251, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5321, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22160, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6230, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23068, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7138, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23977, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8047, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24885, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8956, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25794, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9864, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26703, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10773, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27611, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11682, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28520, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12590, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29428, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13499, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30337, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14407, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31246, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15316, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32154, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16225, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 295, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17133, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1204, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18042, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 2112, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18950, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3021, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 19859, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 3929, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 20768, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 4838, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 21676, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 5747, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 22585, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 6655, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 23494, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 7564, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 24402, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 8472, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 25311, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 9381, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 26219, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 10290, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 27128, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 11198, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28037, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 12107, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 28945, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13015, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 29854, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 13924, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 30762, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 14833, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 31671, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 15741, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 32580, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 16650, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 720, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 17559, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 1629, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
+{ "index": {} }
+{ "price" : 18467, "color" : "red", "make" : "honda", "sold" : "2014-10-28" }
